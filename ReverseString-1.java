@@ -1,9 +1,5 @@
 import java.util.Scanner;
-
-
-
 class ReverseString{
-
 	public  static void reverse(String s ){
 			String res="";
 			for(int i=s.length();i>0;i--)
